@@ -1,27 +1,26 @@
-# Frontend
+# 🎈CrudAngular
+## 👾 A crud made in angular an consuming a api, made for me.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
+<img alt="Angular" src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular" width="93px"/> 
 
-## Development server
+![Screenshot_3](https://user-images.githubusercontent.com/77704994/132106626-5b236cd2-dfc3-4f4f-ac22-7b85db02ce20.png)
+![Screenshot_4](https://user-images.githubusercontent.com/77704994/132106627-ffc206da-1c18-42e7-a008-64de8a797fb0.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+##  How to use ? 🤔
 
-## Build
+Only make a api. The one I made was like this 😁
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+![Screenshot_5](https://user-images.githubusercontent.com/77704994/132106624-df6f8e5a-2043-45b8-bd67-3c3cb9e20c54.png)
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## How to make my changes ? 🤔
 
-## Running end-to-end tests
+```sh
+npm install
+```
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+```sh
+npm run build
+```
